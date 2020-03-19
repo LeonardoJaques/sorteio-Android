@@ -2,6 +2,5 @@
     <string name="app_name">Sorteio-Android-Java</string>
     <string name="subtitle">Escolha um número entre 0 à 10</string>
     <string name="btn_play">Jogar</string>
-
     <string name="selectionNone">Nenhum número selelecionado</string>
 </resources>
